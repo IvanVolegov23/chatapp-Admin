@@ -58,7 +58,6 @@ li {
 /* general */
 
 body {
-  /*background-color: #1a5f46;*/
   background-color: #EEEEEE;
   font-family: 'Titillium Web', Helvetica, Arial, sans-serif;
   /*color: black;*/
@@ -87,8 +86,6 @@ a:hover {
 
 .container {
   margin: 0 auto;
-  /*max-width: 1200px;*/
-  /*max-width: 1390px;*/
 }
 
 /* header */
